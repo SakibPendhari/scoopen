@@ -1,0 +1,3 @@
+adding line for 3 way merge
+adding 2nd line for 3 way merge
+adding 3rd line for 3 way merge
